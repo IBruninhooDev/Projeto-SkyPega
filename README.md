@@ -4,7 +4,8 @@
  <a href="https://skypagee.netlify.app/">Clique Aqui para ir ao Site</a><br/>
 </p>
 
-<img width="1362" height="597" alt="image" src="https://github.com/user-attachments/assets/df931760-d084-4d99-aa15-ffbfe63eed11" />
+<img width="1365" height="599" alt="image" src="https://github.com/user-attachments/assets/5868791e-b6df-4635-965b-58778557a606" />
+
 
 
 
@@ -123,11 +124,13 @@ O site é totalmente responsivo e se adapta aos seguintes dispositivos:
 - Termos de uso claros
 - Proteção de dados dos usuários
 
-- ## 🔗 Links
+---
+- ## :link: Links
 
-- [GitHub](https://github.com/IBrunooDev)
+- [GitHub](https://github.com/IBruninhooDev)
 - [LinkedIn](https://www.linkedin.com/in/brunocarus/?originalSubdomain=br)
-- [Instagram](https://www.instagram.com/ibrunoodev/)
+- [Instagram](https://www.instagram.com/____brunoo77/)
 ---
 
-Desenvolvido com ❤️ por [Bruno Henrique](https://github.com/IBrunooDev) 
+Desenvolvido com :heart: por [BrunoCarus](https://github.com/IBruninhooDev) 
+© 2026 IBruninhooDev. Todos os direitos reservados.
